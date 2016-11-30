@@ -1,0 +1,260 @@
+{
+	"home":[
+		{
+			"title":"hotel",
+			"hotel":[
+				"-- Select Hotel -- ",
+				"Shangri-La",
+				"Chatrium",
+				"Four Seasons",
+				"Hilton"
+			],
+			"guests":[
+				"-- Guests -- ",
+				"1",
+				"2",
+				"3",
+				"4",
+				"5+"
+			]
+		},
+		{
+			"title":"carRental",
+			"model":[
+				"-- Select Model -- ",
+				"BMW",
+				"Mercedes-Benz",
+				"Toyota",
+				"Honda"
+			],
+			"opt":[
+				"-- Options -- ",
+				"Child Seat",
+				"GPS Navigator",
+				"Insurance"
+			]
+		},
+		{
+			"title":"lid",
+			"content":[
+				[
+					"PROIN GRAVIDA NIBHVEL LOREM QUIS BIND1",
+					"28 March 2016"
+				],
+				[
+					"PROIN GRAVIDA NIBHVEL LOREM QUIS BIND2",
+					"26 March 2016"
+				],
+				[
+					"PROIN GRAVIDA NIBHVEL LOREM QUIS BIND3",
+					"24 March 2016"
+				],
+				[
+					"PROIN GRAVIDA NIBHVEL LOREM QUIS BIND4",
+					"22 March 2016"
+				]
+			],
+			"texts":"Holiday is free Bootstrap v3.3.5 responsive template for tour and travel websites. You can download and use this layout for any purpose. You do not need to provide a credit link to us. If you have any question, feel free to <a href=\"javascript:void(0);\">contact us</a>. Credit goes to <a href=\"javascript:void(0);\">Unspash</a>for images used in this template."
+		},
+		{
+			"title":"popular",
+			"content":[
+				"Proin gravida nibhvell velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum1",
+				"Proin gravida nibhvell velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum2",
+				"Proin gravida nibhvell velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum3",
+				"Proin gravida nibhvell velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum4"
+			]
+		}
+	],
+	"about":[
+		{
+			"title":"smallBanner",
+			"content":[
+				[
+					"TOUR AND TRAVEL",
+					"Gravida nibh vel velit auctor aliquet enean sollicitudin lorem quis auctor, nisi elit consequat ipsum3",
+					"Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris gestas quam, ut aliquam massa nisi."
+				],
+				[
+					"WELCOME TO HOLIDAY",
+					"Gravida nibh vel velit auctor aliquet enean sollicitudin lorem quis auctor",
+					"Holiday is free Bootstrap v3.3.5 responsive template for tour and travel websites. You can download and use this layout for any purpose. You do not need to provide a credit link to us. If you have any question, feel free to <a href=\"javascript:(0);\" target=\"_parent\">contact us</a>. <br><br> Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum."
+				],
+				[
+					"THANK YOU FOR CHOOSING US!",
+					"Gravida nibh vel velit auctor aliquet enean sollicitudin lorem quis auctor, nisi elit consequat ipsum",
+					"Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. <br>Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris gestas quam, ut aliquam massa nisi."
+				],
+				[
+					"MORE PROGRAMS TO COME",
+					"Gravida nibh vel velit auctor aliquet enean sollicitudin lorem quis auctor, nisi elit consequat ipsum2",
+					"Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris gestas quam, ut aliquam massa nisi."
+				],
+				[
+					"TOUR AND TRAVEL",
+					"Gravida nibh vel velit auctor aliquet enean sollicitudin lorem quis auctor, nisi elit consequat ipsum3",
+					"Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris gestas quam, ut aliquam massa nisi."
+				],
+				[
+					"WELCOME TO HOLIDAY",
+					"Gravida nibh vel velit auctor aliquet enean sollicitudin lorem quis auctor",
+					"Holiday is free Bootstrap v3.3.5 responsive template for tour and travel websites. You can download and use this layout for any purpose. You do not need to provide a credit link to us. If you have any question, feel free to <a href=\"javascript:(0);\" target=\"_parent\">contact us</a>. <br><br> Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum."
+				]
+			]
+		},
+		{
+			"title":"whoare",
+			"content":[
+				[
+					"Thomas <span>( Founder )</span>",
+					"Proin gravida nibhvell aliquet. Aenean sollicitudin bibum auctor nisi elit.1"
+				],
+				[
+					"KEITH <span>( Co-Founder )</span>",
+					"Proin gravida nibhvell aliquet. Aenean sollicitudin bibum auctor nisi elit.2"
+				],
+				[
+					"JOHN <span>( General Manager )</span>",
+					"Proin gravida nibhvell aliquet. Aenean sollicitudin bibum auctor nisi elit.3"
+				],
+				[
+					"SMITH <span>( Manager )</span>",
+					"Proin gravida nibhvell aliquet. Aenean sollicitudin bibum auctor nisi elit.4"
+				]
+			]
+		},
+		{
+			"title":"doright",
+			"content":[
+				[
+					"Gravida Nibh Vel Velit Auctor Aliquet Etiam",
+					"Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis.1",
+					"Mauris In Erat Justo"
+				],
+				[
+					"SED NON MAURIS VITAE ERAT CON RUAT NOSTRA",
+					"Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Mauris in erat justo. Nullam ac urna eu felis.2",
+					"SEDNON MAURIS VITAE"
+				]
+			]
+		},
+		{
+			"title":"testimonials",
+			"content":[
+				[
+					"\"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum.\"",
+					"John Smith"
+				],
+				[
+					"\"Nisi elit consequat ipsum, nec sagittis sem nibh id elit duis sed odio sit amet nibh.\"",
+					"LORENS"
+				],
+				[
+					"\"Rulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio.\"",
+					"ROBERT"
+				]
+			]
+		}
+	],
+	"tours":[
+		{
+			"title":"hotel",
+			"hotel":[
+				"-- Select Hotel -- ",
+				"Shangri-La",
+				"Chatrium",
+				"Four Seasons",
+				"Hilton"
+			],
+			"guests":[
+				"-- Guests -- ",
+				"1",
+				"2",
+				"3",
+				"4",
+				"5+"
+			]
+		},
+		{
+			"title":"carRental",
+			"model":[
+				"-- Select Model -- ",
+				"BMW",
+				"Mercedes-Benz",
+				"Toyota",
+				"Honda"
+			],
+			"opt":[
+				"-- Options -- ",
+				"Child Seat",
+				"GPS Navigator",
+				"Insurance"
+			]
+		},
+		{
+			"title":"ourtours",
+			"content":[
+				[
+					"Proin Gravida Nibhvel Lorem Quis Bind1",
+					"28 March 2084",
+					"Lorem quis bibendum auctor, nisi elit consequat ipsum, sec sagittis sem nibh id elit.1",
+					"Duration: 8 days",
+					"$2,200"
+				],
+				[
+					"Proin Gravida Nibhvel Lorem Quis Bind2",
+					"26 March 2084",
+					"Lorem quis bibendum auctor, nisi elit consequat ipsum, sec sagittis sem nibh id elit.2",
+					"Duration: 9 days",
+					"$1,800"
+				],
+				[
+					"Proin Gravida Nibhvel Lorem Quis Bind3",
+					"24 March 2084",
+					"Lorem quis bibendum auctor, nisi elit consequat ipsum, sec sagittis sem nibh id elit.3",
+					"Duration: 7 days",
+					"$1,600"
+				],
+				[
+					"Proin Gravida Nibhvel Lorem Quis Bind4",
+					"22 March 2084",
+					"Lorem quis bibendum auctor, nisi elit consequat ipsum, sec sagittis sem nibh id elit.4",
+					"Duration: 5 days",
+					"$1,200"
+				]
+			]
+		},
+		{
+			"title":"special",
+			"content":[
+				[
+					"PROIN GRAVIDA NIBHVEL LOREM QUIS BIND1",
+					"28 March 2084"
+				],
+				[
+					"PROIN GRAVIDA NIBHVEL LOREM QUIS BIND2",
+					"26 March 2084"
+				],
+				[
+					"PROIN GRAVIDA NIBHVEL LOREM QUIS BIND3",
+					"24 March 2084"
+				],
+				[
+					"PROIN GRAVIDA NIBHVEL LOREM QUIS BIND4",
+					"22 March 2084"
+				]
+			],
+			"texts":"Lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh vulputate cursus a sit amet mauris.<br>Morbi accumsaipsu m velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat."
+		}
+	],
+	"contact":[
+		{
+			"title":"smallBanner",
+			"content":[
+				"Lorem Isum Dolor",
+				"Gravida nibh vel velit auctor aliquet enean sollicitudin lorem quis auctor, nisi elit consequat ipsum",
+				"Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. <br><br>Mauris in erat justo. Nullam ac urna eu felis dapibus condimentum sit amet a augue. Sed non neque elit. Sed ut imperdiet nisi. Proin condimentum fermentum nunc. Etiam pharetra, erat sed fermentum feugiat, velit mauris gestas quam, ut aliquam massa nisi."
+			]
+		}
+	]
+}
